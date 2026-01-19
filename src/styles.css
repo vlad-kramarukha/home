@@ -1,0 +1,8 @@
+@import './assets/fonts/GoogleSans/GoogleSans.css';
+@import './assets/fonts/LexendZetta/LexendZetta.css';
+@import 'tailwindcss';
+
+:root {
+    --Google-Sans: 'Google Sans';
+    --Lexend-Zetta: 'Lexend Zetta'
+}

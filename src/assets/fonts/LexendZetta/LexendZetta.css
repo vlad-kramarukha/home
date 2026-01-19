@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Lexend Zetta';
+    src: local('Lexend Zetta Regular'), local('LexendZetta-Regular'),
+    url('LexendZetta-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
